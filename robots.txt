@@ -1,0 +1,7 @@
+# robots.txt del proyecto
+# Las URL de este archivo deben llevar el nombre real del proyecto de Cloudflare.
+
+User-agent: *
+Disallow: /lab/bloqueada
+
+Sitemap: https://TerrorGames.pages.dev/sitemap.xml
